@@ -1,7 +1,7 @@
 
 console.log('nechami')
 
-console.log(button)
+console.log("it is nice")
 
 let gitgit = 2;
 
