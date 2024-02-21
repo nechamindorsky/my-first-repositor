@@ -1,7 +1,7 @@
 
 console.log('chaya')
 
-console.log("it is nice")
+console.log("it is good")
 
 let gitgit = 2;
 
